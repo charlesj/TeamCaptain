@@ -1,0 +1,16 @@
+Core
+-Added ability to change player size, pick method, and choose labs
+--Available sizes: 6s, HL
+--Available pick methods: Medic Picks own team, Medic picks enemy team, vote pick skill, random teams
+--Available labs: None
+
+Menus
+-Add number of players to Captain pick Menu
+
+Med Pick Mode
+-Set players to the class they were picked for
+
+
+Future Changes:
+Allow any team size, no longer 6 or 9 players
+Ability to stop Cap Mode
