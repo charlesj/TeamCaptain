@@ -1,0 +1,1 @@
+.\tools\spcomp.exe TeamCaptain\cap.sp
