@@ -1,0 +1,12 @@
+Initially the plan is to get the plugin back into the state it was before code was lost.
+
+Captains Mode
+    Maybe be able to mark players as exempt from medic and mark fat kids.
+    Choose class preferences
+        Choose two medics
+            Check to see if they have been medic recently, exempt
+    Medics fight
+    Picking.
+        Fat kids will be forced to be picked
+        Assign picked player to the team.
+    Put a notice of obesity on fat kids
