@@ -1,0 +1,36 @@
+
+More than 2 players on a server 
+
+Activate Team Captain
+    choose team size
+
+Display  class preference menu to all players
+
+Record class preference for each player
+
+Choose two medics from the player pool
+    If less than two players have chosen medic as their preferred class, choose two at random for the larger pool
+    if only one person chose medic, choose them, plus a random
+    If exactly two players chose medic, choose them
+    If more than two players chose medic, choose randomly from them.
+    
+Move all players to spec
+
+Move the two chosen medics to opposite teams
+
+Watch to see which dies first - they have second pcik 
+
+Alternate through the picks
+
+    picking means displaying a menu containing classes
+    for each class, display the players that have chosen that as their preference
+    have a way to show all players, regardless of preference
+    move the chosen player to the team of the captain who chose them.
+
+
+display the pick menu to the other medic
+-> it could also support 1 pick, then two picks alternating
+
+keep displaying pick menu until team size is hit (6?)
+
+You're done!
